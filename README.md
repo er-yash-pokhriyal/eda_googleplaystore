@@ -1,6 +1,6 @@
 ## Exploratory Data Analysis (EDA) - Hinglish Explanation
 
-![EDA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fpreparing-data-eda-mahsa-salimi-2859f&psig=AOvVaw1AykEz-WSUyR8eVvX8_O9X&ust=1744996467879000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjjo8fI34wDFQAAAAAdAAAAABAJ)
+![EDA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMzj_fq1Ra27udSRsTxvcT8UBCmuTu2tik1Q38tOAiY5CQ67JaXkCPffSuIKGeKTxvok&usqp=CAU)
 
 **EDA Kya hai (What is EDA?)**
 
