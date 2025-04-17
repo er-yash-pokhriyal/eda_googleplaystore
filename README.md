@@ -1,5 +1,7 @@
 ## Exploratory Data Analysis (EDA) - Hinglish Explanation
 
+![EDA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fpreparing-data-eda-mahsa-salimi-2859f&psig=AOvVaw1AykEz-WSUyR8eVvX8_O9X&ust=1744996467879000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjjo8fI34wDFQAAAAAdAAAAABAJ)
+
 **EDA Kya hai (What is EDA?)**
 
 EDA basically data ko "explore" karne ka process hai. Matlab, data mein kya chhupa hua hai, woh pata karna. Isme hum data ke patterns, trends, relationships, aur kuch ajeeb cheezo (anomalies) ko dhoondte hain. EDA ka main goal hota hai data ke baare mein ek "feel" develop karna, taki hum aage ke analysis aur modelling ke liye ready ho sakein.
